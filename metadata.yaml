@@ -1,0 +1,5 @@
+homepage: "https://www.example.com"
+documentation: "https://www.example.com/documentation"
+versions:
+  - sha: PLACEHOLDER_SHA_COMMIT
+    changeNotes: Initial release.
