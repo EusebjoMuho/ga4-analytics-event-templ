@@ -1,5 +1,5 @@
-homepage: "https://www.example.com"
-documentation: "https://www.example.com/documentation"
+homepage: "https://github.com/EusebjoMuho/ga4-analytics-event-templ"
+documentation: "https://github.com/EusebjoMuho/ga4-analytics-event-templ"
 versions:
   - sha: 42d9d1bb9c7f2cf4b361c45f2b8ec197674f44fc
     changeNotes: Initial release.
